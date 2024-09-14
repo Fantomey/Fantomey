@@ -6,17 +6,17 @@
 
 <h3 align="center">I am a student studying Front-End Development</h3>
 
-<br/>
 
 
 
-<div align="center">
- ## 🌱 I’m currently learning  React 
-    <br/>
- ## 💬 Ask me about  Video Games 🎮 
-    <br/>
-⚡ Fun fact **In God of War: Ragnarök, Thor is voiced by Ryan Hurst, famous for his roles in Sons of Anarchy and The Walking Dead.**
+## <div align="center">
+  🌱 I’m currently learning  React 
+   
+  💬 Ask me about  Video Games 🎮 
+    
+⚡ Fun fact : In God of War: Ragnarök, Thor is voiced by Ryan Hurst, famous for his roles in Sons of Anarchy and The Walking Dead.
  </div>
+ <br/>
 
 <div align="center"> 
   <a href="mailto:roma.purig@gmail.com">
