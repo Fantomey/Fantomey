@@ -2,10 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Roman+/+Fantomey!;" />
 </h1>
 
+
+
+<h3 align="center">I am a student studying Front-End Development</h3>
+
+<br/>
+
+
+
 <div align="center">
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning ** React **
     
-💬 Ask me about ** Video Games 🎮**
+💬 Ask me about ** Video Games 🎮 **
 
 ⚡ Fun fact **Thor, one of the major characters in the game God of War: Ragnarok, is voiced by Ryan Hurst, an actor known for his roles in Sons of Anarchy and The Walking Dead**
  </div>
