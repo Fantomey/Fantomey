@@ -8,8 +8,7 @@
 
 
 
-
-## <div align="center">
+ <div align="center">
   🌱 I’m currently learning  React 
    
   💬 Ask me about  Video Games 🎮 
