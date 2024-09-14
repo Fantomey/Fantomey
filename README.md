@@ -12,9 +12,9 @@
 
  🔭 I’m currently live in **Ukraine**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React, TypeScript**
 
-💬 Ask me about **Video Games 🎮**
+💬 Ask me about **Video Games 🎮 and Memes 🫠**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
