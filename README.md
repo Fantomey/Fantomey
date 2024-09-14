@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;My+name+is+Roman+%2F+Fantomey)](https://git.io/typing-svg)
+[align="center"![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B;My+name+is+Roman+%2F+Fantomey)](https://git.io/typing-svg)
 
 
 ### 🥬 I'm currently learning 
