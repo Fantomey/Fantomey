@@ -3,8 +3,20 @@
 </h1>
 
 <div align="center">
- 🌱 I’m currently learning *React**
+ 🌱 I’m currently learning **React**
+    
+💬 Ask me about ** Video Games 🎮**
+
+⚡ Fun fact **Thor, one of the major characters in the game God of War: Ragnarok, is voiced by Ryan Hurst, an actor known for his roles in Sons of Anarchy and The Walking Dead**
  </div>
+
+<div align="center"> 
+  <a href="mailto:roma.purig@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</div>
+
+
+ 
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
