@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </div>
 
+# 📊 GitHub Stats:
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantomey&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
  
 
