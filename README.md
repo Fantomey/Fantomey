@@ -11,11 +11,11 @@
 
 
 <div align="center">
- 🌱 I’m currently learning ** React **
-    
-💬 Ask me about ** Video Games 🎮 **
-
-⚡ Fun fact **Thor, one of the major characters in the game God of War: Ragnarok, is voiced by Ryan Hurst, an actor known for his roles in Sons of Anarchy and The Walking Dead**
+ ## 🌱 I’m currently learning  React 
+    <br/>
+ ## 💬 Ask me about  Video Games 🎮 
+    <br/>
+⚡ Fun fact **In God of War: Ragnarök, Thor is voiced by Ryan Hurst, famous for his roles in Sons of Anarchy and The Walking Dead.**
  </div>
 
 <div align="center"> 
