@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
- 
 
+ 🔭 I’m currently live in **Ukraine**
  
  🌱 I’m currently learning **React**
 
