@@ -9,12 +9,16 @@
 <br/>
 
 <div align="center">
-  🌱 I’m currently learning  React 
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-  💬 Ask me about  Video Games 🎮 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-  ⚡ Fun fact : In God of War: Ragnarök, Thor is voiced by Ryan Hurst, famous for his roles in Sons of Anarchy and The Walking Dead.
-</div>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 <br/>
 
 <div align="center"> 
